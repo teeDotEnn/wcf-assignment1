@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WcfService1/.vs/Wcf-Assignment1/v17
+/WcfService1/.vs/WcfService1/FileContentIndex
+/WcfService1/ClientApp/bin/Debug
+/WcfService1/ClientApp/obj/Debug
+/WcfService1/WcfService1/obj/Debug
+/WcfService1/WcfService1/bin
+/WcfService1/.vs/Wcf-Assignment1/config
